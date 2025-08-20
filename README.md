@@ -3,10 +3,10 @@
 Full-stack developer  
 
 ## 🛠️ Tech I Use
-- **Backend**: Laravel  
-- **Frontend**: Blade, TailwindCSS, Next.JS  
-- **Database**: MySQL  
-- **Other**: Plain JS, htmx, AJAX  
+- **Backend**: Laravel, PHP
+- **Frontend**: React, Next.JS, TailwindCSS, Blade
+- **Database**: MySQL, PostgreSQL, GraphQL 
+- **Other**: Plain JS, AJAX  
 
 ## 📫 Connect
 - 🌐 [Portfolio](https://hetbo.net)  
