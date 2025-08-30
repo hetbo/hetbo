@@ -9,7 +9,7 @@ Full-stack developer
 - **Other**: Plain JS, AJAX
 
 ## 📊 Stats
-![Top Langs](https://github-profile-trophy.vercel.app/?username=hetbo&margin-w=15&no-bg=true&no-frame=true&theme=onedark&&rank=-C)
+![Top Langs](https://github-profile-trophy.vercel.app/?username=hetbo&margin-w=10&no-frame=true&theme=onedark&rank=-?,-C)
 
 ## 📫 Connect
 - 🌐 [Portfolio](https://hetbo.net)  
