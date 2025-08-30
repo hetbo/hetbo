@@ -25,6 +25,9 @@ Full-stack Developer | Laravel & React
 ## 🏆 Achievements
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=hetbo&theme=onedark&margin-w=10&rank=-?,-C&no-frame=true)
 
+## Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hetbo&layout=compact&theme=onedark)
+
 ## 📫 Connect
 - 🌐 [Portfolio (EN)](https://hetbo.net)  
 - 🌐 [Portfolio (FA)](https://hetbo.net/intro)  
